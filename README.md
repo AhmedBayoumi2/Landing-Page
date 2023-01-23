@@ -13,7 +13,8 @@
 > - Also there are some animations to give it a good appearance.
 
 #### Resorces
-> Some info I Searched about it using related eductional websites like 
->> W3Scools
->> MDN
->> Udacity
+> Some info I Searched about it using related eductional websites like:
+>>
+> - W3Scools
+> - MDN
+> - Udacity
