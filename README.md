@@ -1,10 +1,10 @@
 # Landing Page Project
 
-> **Wlecome to My landing page repo** ...
+> **Wlecome to My landing page repo** 
 
 ## Manipulating the DOM
 
-... This is  a simple landing page using **HTML, CSS & JS**.
+This is  a simple landing page using **HTML, CSS & JS**.
 
 ### Usage of this project.
 
